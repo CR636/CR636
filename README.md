@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+ I’m currently learning php and java.
+ Fun fact: idk japanese.
 <!--
 **CR636/CR636** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
