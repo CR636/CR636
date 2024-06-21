@@ -1,6 +1,5 @@
 ### Hi there 👋
- I’m currently learning php and java, javascript and databases.
- Fun fact: idk.
+ I’m currently learning php and java, javascript and databases
 <!--
 **CR636/CR636** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
